@@ -1,0 +1,1 @@
+fdt_overlays=apalis-imx6_lvds-lt170410_overlay.dtbo

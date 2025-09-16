@@ -1,0 +1,717 @@
+{
+    "routes": {
+        "routeList": [
+            {
+                "sno": 0,
+                "tr_nm_en": "NOIDA RTVISION PASSENGER",
+                "tr_no_en": "12345",
+                "tr_route_en": "HCL NOIDA TO RTVISION TECHNOLOGIES",
+                "tr_via_en": "VIA GENESIS GLOBAL SCHOOL, SECTOR 144, ATS"
+            },
+            {
+                "sno": 1,
+                "tr_nm_en": "NOIDA RTVISION PASSENGER",
+                "tr_no_en": "12346",
+                "tr_route_en": "RTVISION TECHNOLOGIES TO HCL NOIDA",
+                "tr_via_en": "VIA ATS, SECTOR 144, GENESIS GLOBAL SCHOOL"
+            },
+            {
+                "sno": 2,
+                "tr_nm_en": "PUNE CMST SUPER FAST SPECIAL",
+                "tr_no_en": "2123",
+                "tr_route_en": "SHIVAJI MAHARAJ TERMINAL TO PUNE JUNCTION",
+                "tr_via_en": "VIA LONAVLA"
+            },
+            {
+                "sno": 3,
+                "tr_nm_en": "CMST PUNE SUPER FAST SPECIAL",
+                "tr_no_en": "2124",
+                "tr_route_en": "PUNE JUNCTION TO SHIVAJI MAHARAJ TERMINAL",
+                "tr_via_en": "VIA LONAVLA"
+            },
+            {
+                "sno": 4,
+                "tr_nm_en": "JABALPUR NIZAMUDDIN SPECIAL",
+                "tr_no_en": "2127",
+                "tr_route_en": "JABALPUR TO NIZAMUDDIN",
+                "tr_via_en": "VIA JHANSI JUNCTION"
+            },
+            {
+                "sno": 5,
+                "tr_nm_en": "NIZAMUDDIN JABALPUR SPECIAL",
+                "tr_no_en": "2128",
+                "tr_route_en": "NIZAMUDDIN TO JABALPUR",
+                "tr_via_en": "VIA JHANSI JUNCTION"
+            },
+            {
+                "sno": 6,
+                "tr_nm_en": "DADAR - SAINAGAR SHIRDI SUPER FAT SPECIAL",
+                "tr_no_en": "2147",
+                "tr_route_en": "DADAR TO SAINAGAR SHIRDI",
+                "tr_via_en": "VIA THANE"
+            },
+            {
+                "sno": 7,
+                "tr_nm_en": "SAINAGAR SHIRDI - DADAR SUPERFAST SPECIAL",
+                "tr_no_en": "2148",
+                "tr_route_en": "SAINAGAR SHIRDI TO DADAR",
+                "tr_via_en": "VIA THANE"
+            },
+            {
+                "sno": 8,
+                "tr_nm_en": "HABIBGANJ HUMSAFAR SPECIAL",
+                "tr_no_en": "2151",
+                "tr_route_en": "PUNE TO HABIBGANJ",
+                "tr_via_en": "VIA AHMADNAGAR"
+            },
+            {
+                "sno": 9,
+                "tr_nm_en": "PUNE HUMSAFAR SPECIAL",
+                "tr_no_en": "2152",
+                "tr_route_en": "PUNE TO HABIBGANJ",
+                "tr_via_en": "VIA AHMADNAGAR"
+            },
+            {
+                "sno": 10,
+                "tr_nm_en": "LOKMANYATILAK - HABIBGANJ SUPER SPECIAL",
+                "tr_no_en": "2153",
+                "tr_route_en": "LOKMANYATILAK TO HABIBGANJ",
+                "tr_via_en": "VIA BHUSAVAL JUNCTION"
+            },
+            {
+                "sno": 11,
+                "tr_nm_en": "HABIBGANJ - LOKMANYATILAK SUPER SPECIAL",
+                "tr_no_en": "2154",
+                "tr_route_en": "HABIBGANJ TO LOKMANYATILAK",
+                "tr_via_en": "VIA BHUSAVAL JUNCTION"
+            },
+            {
+                "sno": 12,
+                "tr_nm_en": "HABIBGANJ - NIZAMUDDIN SPECIAL",
+                "tr_no_en": "2155",
+                "tr_route_en": "HABIBGANJ TO HAZRAT NIZAMUDDIN",
+                "tr_via_en": "VIA JHANSI JUNCTION"
+            },
+            {
+                "sno": 13,
+                "tr_nm_en": "NIZAMUDDIN - HABIBGANJ SPECIAL",
+                "tr_no_en": "2156",
+                "tr_route_en": "HAZRAT NIZAMUDDIN TO HABIBGANJ ",
+                "tr_via_en": "VIA JHANSI JUNCTION"
+            },
+            {
+                "sno": 14,
+                "tr_nm_en": "LOKMANYATILAK HARIDWAR AC SPECIAL",
+                "tr_no_en": "2171",
+                "tr_route_en": "LOKMANYATILAK TO HARIDWAR",
+                "tr_via_en": "VIA HAZRAT NIZAMUDDIN"
+            },
+            {
+                "sno": 15,
+                "tr_nm_en": "HARIDWAR LOKMANYATILAK AC SPECIAL",
+                "tr_no_en": "2172",
+                "tr_route_en": "HARIDWAR TO LOKMANYATILAK",
+                "tr_via_en": "VIA HAZRAT NIZAMUDDIN"
+            },
+            {
+                "sno": 16,
+                "tr_nm_en": "HABIBGANJ-REVA SPECIAL",
+                "tr_no_en": "2177",
+                "tr_route_en": "HABIBGANJ-REVA",
+                "tr_via_en": "VIA BINA JUNCTION"
+            },
+            {
+                "sno": 17,
+                "tr_nm_en": "REVA-HABIBGANJ SPECIAL",
+                "tr_no_en": "2178",
+                "tr_route_en": "REVA-HABIBGANJ",
+                "tr_via_en": "VIA BINA JUNCTION"
+            },
+            {
+                "sno": 18,
+                "tr_nm_en": "BHOPAL PRATAPGARH SUPERFAST SPECIAL",
+                "tr_no_en": "2183",
+                "tr_route_en": "BHOPAL TO PRATAPGARH",
+                "tr_via_en": "VIA VIDISHA"
+            },
+            {
+                "sno": 19,
+                "tr_nm_en": "PRATAPGARH-BHOPAL SUPERFAST SPECIAL",
+                "tr_no_en": "2184",
+                "tr_route_en": "PRATAPGARG TO BHOPAL",
+                "tr_via_en": "VIA VIDISHA"
+            },
+            {
+                "sno": 20,
+                "tr_nm_en": "HABIBGANJ-REVA SPECIAL",
+                "tr_no_en": "2185",
+                "tr_route_en": "HABIBGANJ TO REVA",
+                "tr_via_en": "VIA DAMOH"
+            },
+            {
+                "sno": 21,
+                "tr_nm_en": "REVA-HABIBGANJ SPECIAL",
+                "tr_no_en": "2186",
+                "tr_route_en": "REVA TO HABIBIGANJ",
+                "tr_via_en": "VIA DAMOH"
+            },
+            {
+                "sno": 22,
+                "tr_nm_en": "NAGPUR DURONTO SPECIAL",
+                "tr_no_en": "2189",
+                "tr_route_en": "SHIVAJI MAHARAJ TERMINAL TO NAGPUR",
+                "tr_via_en": "VIA BHUSAVAL JUNCTION"
+            },
+            {
+                "sno": 23,
+                "tr_nm_en": "SHIVAJI MAHARAJ DURONTO SPECIAL",
+                "tr_no_en": "2190",
+                "tr_route_en": "NAGPUR TO SHIVAJI MANARAJ TERMINAL",
+                "tr_via_en": "VIA BHUSAVAL JUNCTION"
+            },
+            {
+                "sno": 24,
+                "tr_nm_en": "KOLKATA GHAZIPUR CITY SPECIAL",
+                "tr_no_en": "3125",
+                "tr_route_en": "KOLKATA TO GHAZPUR CITY",
+                "tr_via_en": "VIA GAYA JUNCTION"
+            },
+            {
+                "sno": 25,
+                "tr_nm_en": "GHAZIPUR CITY-KOLKATA SPECIAL",
+                "tr_no_en": "3126",
+                "tr_route_en": "GHAZIPUR CITY TO KOLKATA",
+                "tr_via_en": "VIA GAYA JUNCTION"
+            },
+            {
+                "sno": 26,
+                "tr_nm_en": "KATHGODAM DEHRADUN SPECIAL",
+                "tr_no_en": "4125",
+                "tr_route_en": "KATHGODAM TO DEHRADUN",
+                "tr_via_en": "VIA MORADABAD"
+            },
+            {
+                "sno": 27,
+                "tr_nm_en": "DEHRADUN KATHGODAM SPECIAL",
+                "tr_no_en": "4126",
+                "tr_route_en": "DEHRADUN TO KATHGODAM",
+                "tr_via_en": "VIA MORADABAD"
+            },
+            {
+                "sno": 28,
+                "tr_nm_en": "KANPUR-LOKMANYATILAK SUPERFAST SPECIAL",
+                "tr_no_en": "4151",
+                "tr_route_en": "KANPUR CENTRAL TO LOKMANYATILAK",
+                "tr_via_en": "VIA PRAYAGRAJ JUNCTION"
+            },
+            {
+                "sno": 29,
+                "tr_nm_en": "LOKMANYATILAK-KANPUR SUPERFAST SPECIAL",
+                "tr_no_en": "4152",
+                "tr_route_en": "LOKMANYATILAK TO KANPUR CENTRAL",
+                "tr_via_en": "VIA PRAYAGRAJ JUNCTION"
+            },
+            {
+                "sno": 30,
+                "tr_nm_en": "KANPUR-ANAND VIHAR SPECIAL",
+                "tr_no_en": "4161",
+                "tr_route_en": "KANPUR CENTRAL TO ANAND VIHAR",
+                "tr_via_en": "VIA ALIGARH JUNCTION"
+            },
+            {
+                "sno": 31,
+                "tr_nm_en": "ANAND VIHAR-KANPUR SPECIAL",
+                "tr_no_en": "4162",
+                "tr_route_en": "ANAND VIHAR TO KANPUR",
+                "tr_via_en": "VIA ALIGARH JUNCTION"
+            },
+            {
+                "sno": 32,
+                "tr_nm_en": "BHOPAL-GWALIOR SPECIAL",
+                "tr_no_en": "4197",
+                "tr_route_en": "BHOPAL TO GWALIOR",
+                "tr_via_en": "VIA GANJ BASODA"
+            },
+            {
+                "sno": 33,
+                "tr_nm_en": "GWALIOR-BHOPAL SPECIL",
+                "tr_no_en": "4198",
+                "tr_route_en": "GWALIOR TO BHOPAL",
+                "tr_via_en": "VIA GANJ BASODA"
+            },
+            {
+                "sno": 34,
+                "tr_nm_en": "SUSHASAN EXPRESS SPECIAL",
+                "tr_no_en": "4199",
+                "tr_route_en": "GWALIOR TO BALRAMPUR",
+                "tr_via_en": "VIA MORADABAD, LUCKNOW"
+            },
+            {
+                "sno": 35,
+                "tr_nm_en": "SUSHASAN EXPRESS SPECIAL",
+                "tr_no_en": "4200",
+                "tr_route_en": "BALRAMPUR TO GWALIOR",
+                "tr_via_en": "VIA LUCKNOW, MORADABAD"
+            },
+            {
+                "sno": 36,
+                "tr_nm_en": "GAYA FESTIVAL SPECIAL",
+                "tr_no_en": "4411",
+                "tr_route_en": "ANAND VIHAR TO GAYA",
+                "tr_via_en": "VIA PRAYAGRAJ JUNCTION"
+            },
+            {
+                "sno": 37,
+                "tr_nm_en": "GAYA-ANAND VIHAR SPECIAL",
+                "tr_no_en": "4412",
+                "tr_route_en": "GAYA TO ANAND VIHAR",
+                "tr_via_en": "VIA PRAYAGRAJ JUNCTION"
+            },
+            {
+                "sno": 38,
+                "tr_nm_en": "LUCKNOW FESTIVAL SPECIAL",
+                "tr_no_en": "4421",
+                "tr_route_en": "LUCKNOW TO ANAND VIHAR",
+                "tr_via_en": "VIA BAREILLY"
+            },
+            {
+                "sno": 39,
+                "tr_nm_en": "ANAND FESTIVAL SPECIAL",
+                "tr_no_en": "4422",
+                "tr_route_en": "ANAND VIHAR TO LUCKNOW",
+                "tr_via_en": "VIA BAREILLY"
+            },
+            {
+                "sno": 40,
+                "tr_nm_en": "NIZAMUDDIN SPECIAL",
+                "tr_no_en": "4423",
+                "tr_route_en": "LUCKNOW TO HAZRAT NIZAMUDDIN",
+                "tr_via_en": "VIA GHAZIABAD"
+            },
+            {
+                "sno": 41,
+                "tr_nm_en": "LUCKNOW FESTIVAL SPECIAL",
+                "tr_no_en": "4424",
+                "tr_route_en": "HAZRAT NIZAMUDDIN TO LUCKNOW",
+                "tr_via_en": "VIA GHAZIABAD"
+            },
+            {
+                "sno": 42,
+                "tr_nm_en": "PUNE CMST SUPER FAST SPECIAL",
+                "tr_no_en": "55555",
+                "tr_route_en": "SHIVAJI MAHARAJ TERMINAL TO PUNE JUNCTION",
+                "tr_via_en": "VIA LONAVLA"
+            },
+            {
+                "sno": 43,
+                "tr_nm_en": "NOIDA RTVISION PASSENGER",
+                "tr_no_en": "7777",
+                "tr_route_en": "HCL NOIDA TO RTVISION TECHNOLOGIES",
+                "tr_via_en": "VIA GENESIS GLOBAL SCHOOL, SECTOR 144, ATS"
+            },
+	    {
+                "sno": 44,
+                "tr_nm_en": "Hosur - Baiyyappanahalli MEMU",
+                "tr_no_en": "6259",
+                "tr_route_en": "Hosur to Baiyyappanahalli",
+                "tr_via_en": "Karmelram"
+            },
+            {
+                "sno": 45,
+                "tr_nm_en": "Ksr Bengaluru - Hosur MEMU",
+                "tr_no_en": "6261",
+                "tr_route_en": "Bengaluru to Hosur",
+                "tr_via_en": "Baiyyappanahalli"
+            },
+	    {
+                "sno": 46,
+                "tr_nm_en": "Hosur -  Ksr Bengaluru MEMU",
+                "tr_no_en": "6262",
+                "tr_route_en": "Hosur to Bengaluru",
+                "tr_via_en": "Baiyyappanahalli"
+            },
+	    {
+                "sno": 47,
+                "tr_nm_en": "Banaswadi bengaluru MEMU",
+                "tr_no_en": "6267",
+                "tr_route_en": "Banaswadi to Ksr Bengaluru",
+                "tr_via_en": "Baiyyappanahalli"
+            },
+	    {
+                "sno": 48,
+                "tr_nm_en": "Yasvantpur Banaswadi MEMU",
+                "tr_no_en": "6268",
+                "tr_route_en": "Yasvantpur Junction to  Banaswadi",
+                "tr_via_en": "Lottegollahalli"
+            },
+	    {
+                "sno": 49,
+                "tr_nm_en": "Yelahanka - Devanahalli DEMU",
+                "tr_no_en": "6287",
+                "tr_route_en": "Yelahanka Junction to Devanahalli",
+                "tr_via_en": "Bettahalsoor"
+            },
+	    {
+                "sno": 50,
+                "tr_nm_en": "Devanahalli - Yelahanka DEMU",
+                "tr_no_en": "6288",
+                "tr_route_en": "Devanahalli to Yelahanka Junction.",
+                "tr_via_en": "Bettahalsoor"
+            },
+	    {
+                "sno": 51,
+                "tr_nm_en": "Chhapra siwan Special",
+                "tr_no_en": "5145",
+                "tr_route_en": "Chhapra to Siwan Junction",
+                "tr_via_en": "Daudpur"
+            },
+	    {
+                "sno": 52,
+                "tr_nm_en": "Bhatni Barhaj Special.",
+                "tr_no_en": "5149",
+                "tr_route_en": "Bhatni Junction to Barhaj Bazar",
+                "tr_via_en": "Salempur Junction"
+            },
+	    {
+                "sno": 53,
+                "tr_nm_en": "Barhaj Bhatni  Special.",
+                "tr_no_en": "5150",
+                "tr_route_en": "Barhaj Bazar to Bhatni Junction",
+                "tr_via_en": "Salempur Junction"
+            },
+	    {
+                "sno": 54,
+                "tr_nm_en": "Secunderabad Special",
+                "tr_no_en": "22204",
+                "tr_route_en": "Secunderabad to Visakhapatnam",
+                "tr_via_en": "Vijaywada Junction"
+            },
+	    {
+                "sno": 55,
+                "tr_nm_en": "Mumbai Central Special",
+                "tr_no_en": "12267",
+                "tr_route_en": "Mumbai to Rajkot",
+                "tr_via_en": "Surendranagar"
+            },
+	    {
+                "sno": 56,
+                "tr_nm_en": "Rajkot Special",
+                "tr_no_en": "12268",
+                "tr_route_en": "Rajkot to Mumbai",
+                "tr_via_en": "Surendranagar"
+            },
+	    {
+                "sno": 57,
+                "tr_nm_en": "Duronto Express",
+                "tr_no_en": "22201",
+                "tr_route_en": "Kolkata to Puri",
+                "tr_via_en": "Kharagpur Junction"
+            },
+	    {
+                "sno": 58,
+                "tr_nm_en": "Mas Duronto Express",
+                "tr_no_en": "22206",
+                "tr_route_en": "Madurai Junction to Chennai Central",
+                "tr_via_en": "Salem Junction"
+            },
+	    {
+                "sno": 59,
+                "tr_nm_en": "Jammu Rajdhani",
+                "tr_no_en": "12426",
+                "tr_route_en": "Jammu to New Delhi",
+                "tr_via_en": "Ludhiana Junction"
+            },
+	    {
+                "sno": 60,
+                "tr_nm_en": "New Delhi Express",
+                "tr_no_en": "12430",
+                "tr_route_en": "New Delhi to Lucknow",
+                "tr_via_en": "Bareilly Junction"
+            },
+	    {
+                "sno": 61,
+                "tr_nm_en": "Rajdhani Express",
+                "tr_no_en": "12437",
+                "tr_route_en": "Secunderabad to Bhopal",
+                "tr_via_en": "Nagpur"
+            },
+	    {
+                "sno": 62,
+                "tr_nm_en": "Mumbai Rajdhani",
+                "tr_no_en": "12951",
+                "tr_route_en": "Mumbai to New Delhi",
+                "tr_via_en": "Kota"
+            },
+	    {
+                "sno": 63,
+                "tr_nm_en": "Aug Raj Express",
+                "tr_no_en": "12953",
+                "tr_route_en": "Mumbai Central to Delhi Hazrat",
+                "tr_via_en": "Surat"
+            },
+	    {
+                "sno": 64,
+                "tr_nm_en": "Shatabdi Express",
+                "tr_no_en": "12019",
+                "tr_route_en": "Howrah to Ranchi",
+                "tr_via_en": "Dhanbad"
+            },
+	    {
+                "sno": 65,
+                "tr_nm_en": "Shatabdi Express",
+                "tr_no_en": "12048",
+                "tr_route_en": "Firozpur to New Delhi",
+                "tr_via_en": "Tohana"
+            },
+	    {
+                "sno": 66,
+                "tr_nm_en": "Gatimaan Express",
+                "tr_no_en": "12049",
+                "tr_route_en": "Jhansi to New Delhi",
+                "tr_via_en": "Agra"
+            },
+	    {
+                "sno": 67,
+                "tr_nm_en": "Gatimaan Express",
+                "tr_no_en": "12050",
+                "tr_route_en": "Delhi to Jhansi",
+                "tr_via_en": "Gwalior"
+            },
+	    {
+                "sno": 68,
+                "tr_nm_en": "Jhelum Express",
+                "tr_no_en": "11077",
+                "tr_route_en": "Pune to Jammu",
+                "tr_via_en": "Belapur"
+            },
+	    {
+                "sno": 69,
+                "tr_nm_en": "CMST Punjab Mail",
+                "tr_no_en": "12138",
+                "tr_route_en": "Firozpur to Mumbai",
+                "tr_via_en": "Khandwa"
+            },
+	    {
+                "sno": 70,
+                "tr_nm_en": "Sanghamitra Express",
+                "tr_no_en": "12295",
+                "tr_route_en": "Bangalore City to Danapur",
+                "tr_via_en": "Pipariya"
+            },
+	    {
+                "sno": 71,
+                "tr_nm_en": "Howrah to Jodhpur Express",
+                "tr_no_en": "12307",
+                "tr_route_en": "Howrah to Jodhpur",
+                "tr_via_en": "Mirzapur"
+            },
+	    {
+                "sno": 72,
+                "tr_nm_en": "DBRT Rajdhani",
+                "tr_no_en": "12424",
+                "tr_route_en": "New Delhi to Dibrugarh",
+                "tr_via_en": "Patliputra"
+            },
+	    {
+                "sno": 73,
+                "tr_nm_en": "North East Express",
+                "tr_no_en": "12506",
+                "tr_route_en": "Anand Vihar to Kamakhya",
+                "tr_via_en": "Fatehpur"
+            },
+	    {
+                "sno": 74,
+                "tr_nm_en": "Purushottam Express",
+                "tr_no_en": "12801",
+                "tr_route_en": "Puri to New Delhi",
+                "tr_via_en": "Gaya Junction"
+            },
+	    {
+                "sno": 75,
+                "tr_nm_en": "Purushottam Express",
+                "tr_no_en": "12802",
+                "tr_route_en": "New Delhi to Puri",
+                "tr_via_en": "Cuttack"
+            },
+	    {
+                "sno": 76,
+                "tr_nm_en": "Howrah Express",
+                "tr_no_en": "12833",
+                "tr_route_en": "Ahmedabad to Howrah",
+                "tr_via_en": "Raipur Junction"
+            },
+	    {
+                "sno": 77,
+                "tr_nm_en": "Gitanjali Express",
+                "tr_no_en": "12859",
+                "tr_route_en": "Mumbai to Howrah",
+                "tr_via_en": "Nagpur"
+            },
+	    {
+                "sno": 78,
+                "tr_nm_en": "Yesvantpur to Howrah Express",
+                "tr_no_en": "12864",
+                "tr_route_en": "Yesvantpur to Howrah",
+                "tr_via_en": "Chirala"
+            },
+	    {
+                "sno": 79,
+                "tr_nm_en": "Bandra Terminus to Hazrat Nizamuddin Rajdhani Special",
+                "tr_no_en": "09003",
+                "tr_route_en": "Bandra to Delhi Hazrat",
+                "tr_via_en": "Kota"
+            },
+	    {
+                "sno": 80,
+                "tr_nm_en": "Hazrat Nizamuddin to Bandra Terminus Rajdhani Special",
+                "tr_no_en": "09004",
+                "tr_route_en": "Delhi Hazrat to Bandra",
+                "tr_via_en": "Vadodara"
+            },
+	    {
+                "sno": 81,
+                "tr_nm_en": "Howrah to New Delhi Rajdhani Express ",
+                "tr_no_en": "12301",
+                "tr_route_en": "Howrah to New Delhi",
+                "tr_via_en": "Gaya"
+            },
+	    {
+                "sno": 82,
+                "tr_nm_en": "New Delhi to Jammu Tawi Rajdhani Express",
+                "tr_no_en": "12425",
+                "tr_route_en": "New Delhi to Jammu",
+                "tr_via_en": "Pathankot"
+            },
+	    {
+                "sno": 83,
+                "tr_nm_en": "Thiruvananathapuram Central to Hazrat Nizamuddin Rajdhani Express",
+                "tr_no_en": "12431",
+                "tr_route_en": "Thiruvananathapuram to New Delhi",
+                "tr_via_en": "Udupi"
+            },
+	    {
+                "sno": 84,
+                "tr_nm_en": "Hazrat Nizamuddin to Thiruvananthapuram Central Rajdhani Express",
+                "tr_no_en": "12432",
+                "tr_route_en": "New Delhi to Thiruvananathapuram ",
+                "tr_via_en": "Karwar"
+            },
+	    {
+                "sno": 85,
+                "tr_nm_en": "Chennai Central to Hazrat Nizamuddin Rajdhani Express ",
+                "tr_no_en": "12433",
+                "tr_route_en": "Chennai to New Delhi ",
+                "tr_via_en": "Nagpur Junction"
+            },
+	    {
+                "sno": 86,
+                "tr_nm_en": "Hazrat Nizamuddin to Chennai Central Rajdhani Express ",
+                "tr_no_en": "12434",
+                "tr_route_en": "Chennai to New DelhiNew Delhi to Chennai ",
+                "tr_via_en": "Bhopal Junction"
+            },
+	    {
+                "sno": 87,
+                "tr_nm_en": "Swarna Jayanti Rajdhani Express",
+                "tr_no_en": "12957",
+                "tr_route_en": "Ahmedabad to New Delhi",
+                "tr_via_en": "Ajmer Junction"
+            },
+	    {
+                "sno": 88,
+                "tr_nm_en": "Swarna Jayanti Rajdhani Express NDLS/New Delhi to ADI/ Ahmedabad Junction ",
+                "tr_no_en": "12958",
+                "tr_route_en": "New Delhi to Ahmedabad",
+                "tr_via_en": "Ajmer Junction"
+            },
+	    {
+                "sno": 89,
+                "tr_nm_en": "Agartala to Anand Vihar Terminal Rajdhani Express",
+                "tr_no_en": "20501",
+                "tr_route_en": "Agartala to Anand Vihar",
+                "tr_via_en": "Barauni Junction"
+            },
+	    {
+                "sno": 90,
+                "tr_nm_en": "Anand Vihar Terminal to Agartala Rajdhani Express ",
+                "tr_no_en": "20502",
+                "tr_route_en": "Anand Vihar to Agartala",
+                "tr_via_en": "Barauni Junction"
+            },
+	    {
+                "sno": 91,
+                "tr_nm_en": "Bhubaneswar to New Delhi Rajdhani Express",
+                "tr_no_en": "201817",
+                "tr_route_en": "Bhubaneshwar to New Delhi",
+                "tr_via_en": "Rourkela"
+            },
+	    {
+                "sno": 92,
+                "tr_nm_en": "New Delhi to Bhubaneswar Rajdhani Express ",
+                "tr_no_en": "201818",
+                "tr_route_en": "New Delhi to Bhubaneswar",
+                "tr_via_en": "Rourkela"
+            },
+	    {
+                "sno": 93,
+                "tr_nm_en": "Chennai Trivandrum Duronto Express",
+                "tr_no_en": "22207",
+                "tr_route_en": "Chennai to Trivandrum",
+                "tr_via_en": "Alleppey"
+            },
+	    {
+                "sno": 94,
+                "tr_nm_en": "Trivandrum Chennai Duronto Express",
+                "tr_no_en": "22208",
+                "tr_route_en": "Trivandrum to Chennai",
+                "tr_via_en": "Alleppey"
+            },
+	    {
+                "sno": 95,
+                "tr_nm_en": "Madgaon to Hazrat Nizamuddin Rajdhani Express",
+                "tr_no_en": "22413",
+                "tr_route_en": "Madgaon to Hazrat Nizamuddin",
+                "tr_via_en": "Panvel"
+            },
+	    {
+                "sno": 96,
+                "tr_nm_en": "Hazrat Nizamuddin to Madgaon Rajdhani Express",
+                "tr_no_en": "22414",
+                "tr_route_en": "Hazrat Nizamuddin to Madgaon",
+                "tr_via_en": "Panvel"
+            },
+	    {
+                "sno": 97,
+                "tr_nm_en": "KSR Bengaluru City to Delhi Hazrat Nizamuddin Rajdhani Express",
+                "tr_no_en": "22691",
+                "tr_route_en": "Bangalore to New Delhi",
+                "tr_via_en": "Agra"
+            },
+	    {
+                "sno": 98,
+                "tr_nm_en": "Delhi Hazrat Nizamuddin to KSR Bengaluru City Rajdhani Express",
+                "tr_no_en": "22692",
+                "tr_route_en": "New Delhi to Bangalore",
+                "tr_via_en": "Agra"
+            },
+	    {
+                "sno": 99,
+                "tr_nm_en": "Bhubaneswar to New Delhi Rajdhani Express",
+                "tr_no_en": "22811",
+                "tr_route_en": "Bhubaneswar to New Delhi",
+                "tr_via_en": "Adra"
+            },
+	    {
+                "sno": 100,
+                "tr_nm_en": "New Delhi to Bhubaneswar Rajdhani Express",
+                "tr_no_en": "22812",
+                "tr_route_en": "New Delhi to Bhubaneswar",
+                "tr_via_en": "Adra"
+            }
+
+        ],
+        "routeSel": [
+            0
+        ]
+    }
+}

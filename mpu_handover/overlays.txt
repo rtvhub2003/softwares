@@ -1,0 +1,1 @@
+fdt_overlays=apalis-imx6_lcd-edt7_overlay.dtbo

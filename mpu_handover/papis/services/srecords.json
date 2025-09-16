@@ -1,0 +1,319 @@
+{
+    "sRecords": [
+        {
+            "issue_dt": 1618763346,
+            "op": "UPDATE_MPU_USB",
+            "sno": 0,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618763536,
+            "op": "UPDATE_MPU_USB",
+            "sno": 1,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618763559,
+            "op": "IMPORT_ROUTES_BMU",
+            "sno": 2,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618766549,
+            "op": "UPDATE_MPU_USB",
+            "sno": 3,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618766676,
+            "op": "EXPORT_LOGS_USB",
+            "sno": 4,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618767099,
+            "op": "EXPORT_LOGS_USB",
+            "sno": 5,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618767276,
+            "op": "EXPORT_LOGS_USB",
+            "sno": 6,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618767288,
+            "op": "EXPORT_FAULTS_USB",
+            "sno": 7,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618770411,
+            "op": "EXPORT_RUNNING_USB",
+            "sno": 8,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618770515,
+            "op": "EXPORT_LOGS_USB",
+            "sno": 9,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618770530,
+            "op": "EXPORT_FAULTS_USB",
+            "sno": 10,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1618770546,
+            "op": "EXPORT_RUNNING_USB",
+            "sno": 11,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619003078,
+            "op": "IMPORT_SETTINGS_BMU",
+            "sno": 12,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619003315,
+            "op": "IMPORT_SETTINGS_BMU",
+            "sno": 13,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619003474,
+            "op": "IMPORT_SETTINGS_BMU",
+            "sno": 14,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619003601,
+            "op": "IMPORT_SETTINGS_BMU",
+            "sno": 15,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619004343,
+            "op": "IMPORT_SETTINGS_BMU",
+            "sno": 16,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619004502,
+            "op": "IMPORT_SETTINGS_BMU",
+            "sno": 17,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619004634,
+            "op": "IMPORT_ROUTES_BMU",
+            "sno": 18,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619004661,
+            "op": "IMPORT_ROUTES_BMU",
+            "sno": 19,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619004755,
+            "op": "IMPORT_ROUTES_BMU",
+            "sno": 20,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619004895,
+            "op": "IMPORT_ROUTES_BMU",
+            "sno": 21,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619009460,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 22,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619009535,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 23,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619022791,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 24,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619069318,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 25,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619069438,
+            "op": "IMPORT_SETTINGS_BMU",
+            "sno": 26,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619069877,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 27,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619069987,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 28,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619070009,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 29,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619070672,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 30,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619070817,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 31,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619071215,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 32,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619072414,
+            "op": "EXPORT_LOGS_BMU",
+            "sno": 33,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619072431,
+            "op": "EXPORT_FAULTS_BMU",
+            "sno": 34,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1619072445,
+            "op": "EXPORT_RUNNING_BMU",
+            "sno": 35,
+            "status": "Initiated",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1624954088,
+            "op": "EXPORT_LOGS_USB",
+            "sno": 36,
+            "status": "Completed",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1624954131,
+            "op": "EXPORT_FAULTS_USB",
+            "sno": 37,
+            "status": "Completed",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1624954176,
+            "op": "EXPORT_RUNNING_USB",
+            "sno": 38,
+            "status": "Completed",
+            "user": "shailendra"
+        },
+        {
+            "issue_dt": 1615300812,
+            "op": "IMPORT_ROUTES_USB",
+            "sno": 39,
+            "status": "Completed",
+            "user": "admin"
+        },
+        {
+            "issue_dt": 1617294088,
+            "op": "IMPORT_ROUTES_USB",
+            "sno": 40,
+            "status": "Completed",
+            "user": "admin"
+        },
+        {
+            "issue_dt": 1615298220,
+            "op": "IMPORT_ROUTES_USB",
+            "sno": 41,
+            "status": "Completed",
+            "user": "admin"
+        },
+        {
+            "issue_dt": 1615298554,
+            "op": "IMPORT_ROUTES_USB",
+            "sno": 42,
+            "status": "Completed",
+            "user": "admin"
+        },
+        {
+            "issue_dt": 1615298825,
+            "op": "IMPORT_ROUTES_USB",
+            "sno": 43,
+            "status": "Completed",
+            "user": "admin"
+        },
+        {
+            "issue_dt": 1615298775,
+            "op": "IMPORT_ROUTES_USB",
+            "sno": 44,
+            "status": "Completed",
+            "user": "admin"
+        }
+    ]
+}

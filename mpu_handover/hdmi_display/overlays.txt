@@ -1,0 +1,1 @@
+fdt_overlays=apalis-imx6_hdmi_overlay.dtbo

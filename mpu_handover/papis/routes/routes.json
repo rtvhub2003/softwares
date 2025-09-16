@@ -1,0 +1,24 @@
+{
+    "routes": {
+        "routeList": [
+            {
+                "sno": 0,
+                "tr_nm_en": "NOIDA RTVISION PASSENGER",
+                "tr_no_en": "12346",
+                "tr_route_en": "RTVISION TECHNOLOGIES TO HCL NOIDA",
+                "tr_via_en": "VIA ATS, SECTOR 144, GENESIS GLOBAL SCHOOL"
+            },
+            {
+                "sno": 1,
+                "tr_nm_en": "MGR CHENNAI CENTRAL MAIL",
+                "tr_no_en": "12624",
+                "tr_route_en": "THIRUVANANTHAPURAM CENTRAL TO MGR CHENNAI CENTRAL",
+                "tr_via_en": "VIA ERNAKULAM TOWN"           
+            }
+        ],
+        "routeSel": [
+            0,
+            1
+        ]
+    }
+}

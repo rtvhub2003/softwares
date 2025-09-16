@@ -1,0 +1,9 @@
+#!/bin/sh
+
+cd /opt/
+mkdir mpu_final
+cd mpu_final
+mkdir bin
+
+cd /home/root/
+mkdir quectel

@@ -1,0 +1,80 @@
+{
+    "routes": {
+        "routeList": [
+            {
+                "sno": 0,
+                "tr_nm_en": "NEW DELHI TEJAS RAJDHANI EXPRESS",
+                "tr_no_en": "12951",
+                "tr_route_en": "MUMBAI CENTRAL TO NEW DELHI",
+                "tr_via_en": "VIA SURAT"
+            },
+            {
+                "sno": 1,
+                "tr_nm_en": "MUMBAI CENTRAL TEJAS RAJDHANI EXPRESS",
+                "tr_no_en": "12952",
+                "tr_route_en": "NEW DELHI TO MUMBAI CENTRAL",
+                "tr_via_en": "VIA SURAT"
+            },
+            {
+                "sno": 2,
+                "tr_nm_en": "AUGUST KRANTI TEJAS RAJDHANI EXPRESS",
+                "tr_no_en": "12954",
+                "tr_route_en": "HAZRAT NIZAMUDDIN TO MUMBAI CENTRAL",
+                "tr_via_en": "VIA SURAT"
+            },
+            {
+                "sno": 3,
+                "tr_nm_en": "AUGUST KRANTI TEJAS RAJDHANI EXPRESS",
+                "tr_no_en": "12953",
+                "tr_route_en": "MUMBAI CENTRAL TO HAZRAT NIZAMUDDIN",
+                "tr_via_en": "VIA SURAT"
+            },
+            {
+                "sno": 4,
+                "tr_nm_en": "BBS-NDLS TEJAS EXPRESS",
+                "tr_no_en": "20817",
+                "tr_route_en": "BHUBANESWAR TO NEW DELHI",
+                "tr_via_en": "VIA SAMBALPUR CITY"
+            },
+            {
+                "sno": 5,
+                "tr_nm_en": "NDLS-BBS TEJAS EXPRESS",
+                "tr_no_en": "20818",
+                "tr_route_en": "NEW DELHI TO BHUBANESWAR",
+                "tr_via_en": "VIA SAMBALPUR CITY"
+            },
+            {
+                "sno": 6,
+                "tr_nm_en": "NEW DELHI TEJAS RAJDHANI EXPRESS",
+                "tr_no_en": "22823",
+                "tr_route_en": "BHUBANESWAR TO NEW DELHI",
+                "tr_via_en": "VIA PANDIT DIN DAYAL UPADHYAYA JUNCTION"
+            },
+            {
+                "sno": 7,
+                "tr_nm_en": "BHUBANESWAR TEJAS RAJDHANI EXPRESS",
+                "tr_no_en": "22824",
+                "tr_route_en": "NEW DELHI TO BHUBANESWAR",
+                "tr_via_en": "TATANAGAR JUNCTION"
+            },
+            {
+                "sno": 8,
+                "tr_nm_en": "NEW DELHI TEJAS RAJDHANI EXPRESS",
+                "tr_no_en": "22811",
+                "tr_route_en": "BHUBANESHWAR TO NEW DELHI",
+                "tr_via_en": "VIA ADRA"
+            },
+            {
+                "sno": 9,
+                "tr_nm_en": "BHUBANESWAR TEJAS RAJDHANI EXPRESS",
+                "tr_no_en": "22812",
+                "tr_route_en": "NEW DELHI TO BHUBANESWAR",
+                "tr_via_en": "VIA ADRA"
+            }
+        ],
+        "routeSel": [
+            8,
+            9
+        ]
+    }
+}

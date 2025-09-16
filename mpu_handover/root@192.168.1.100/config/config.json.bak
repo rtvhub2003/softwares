@@ -1,0 +1,382 @@
+{
+    "slaves": [
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_18",
+            "hw_id": "RT012110001",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.111",
+            "rs485_addr": 11,
+            "sno": 1
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_18",
+            "hw_id": "RT012110002",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.112",
+            "rs485_addr": 12,
+            "sno": 2
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_18",
+            "hw_id": "RT012110003",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.113",
+            "rs485_addr": 13,
+            "sno": 3
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_18",
+            "hw_id": "RT012110004",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.114",
+            "rs485_addr": 14,
+            "sno": 4
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120001",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.121",
+            "rs485_addr": 21,
+            "sno": 5
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120002",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.122",
+            "rs485_addr": 22,
+            "sno": 6
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120003",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.123",
+            "rs485_addr": 23,
+            "sno": 7
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120004",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.124",
+            "rs485_addr": 24,
+            "sno": 8
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120005",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.125",
+            "rs485_addr": 25,
+            "sno": 9
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120006",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.126",
+            "rs485_addr": 26,
+            "sno": 10
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120007",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.127",
+            "rs485_addr": 27,
+            "sno": 11
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120008",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.128",
+            "rs485_addr": 28,
+            "sno": 12
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "ETH",
+            "device_type": "DEV_LCD_PIS_10",
+            "hw_id": "RT012120009",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.129",
+            "rs485_addr": 29,
+            "sno": 13
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_DDB_SL",
+            "hw_id": "RT012140001",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.131",
+            "rs485_addr": 31,
+            "sno": 14
+        },
+        {
+            "activeStatus": "ACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_DDB_SL",
+            "hw_id": "RT012140002",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.132",
+            "rs485_addr": 32,
+            "sno": 15
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_DDB_SL",
+            "hw_id": "RT012140003",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.133",
+            "rs485_addr": 33,
+            "sno": 16
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_DDB_SL",
+            "hw_id": "RT012140004",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.134",
+            "rs485_addr": 34,
+            "sno": 17
+        },
+        {
+            "activeStatus": "ACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_DDB_DL",
+            "hw_id": "RT012150001",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.141",
+            "rs485_addr": 41,
+            "sno": 18
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_DDB_DL",
+            "hw_id": "RT012150002",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.142",
+            "rs485_addr": 42,
+            "sno": 0
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_DDB_DL",
+            "hw_id": "RT012150003",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.143",
+            "rs485_addr": 43,
+            "sno": 20
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_DDB_DL",
+            "hw_id": "RT012150004",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.144",
+            "rs485_addr": 44,
+            "sno": 21
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_LED_PIS",
+            "hw_id": "RT012130001",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.151",
+            "rs485_addr": 51,
+            "sno": 22
+        },
+        {
+            "activeStatus": "ACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_LED_PIS",
+            "hw_id": "RT012130002",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.152",
+            "rs485_addr": 52,
+            "sno": 23
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_LED_PIS",
+            "hw_id": "RT012130003",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.153",
+            "rs485_addr": 53,
+            "sno": 24
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_LED_PIS",
+            "hw_id": "RT012130004",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.154",
+            "rs485_addr": 54,
+            "sno": 25
+        },
+        {
+            "activeStatus": "ACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_TMS",
+            "hw_id": "RT012160001",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.161",
+            "rs485_addr": 61,
+            "sno": 26
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_TMS",
+            "hw_id": "RT012160002",
+            "installStatus": "INSTALLED",
+            "ip_addr": "192.168.0.162",
+            "rs485_addr": 62,
+            "sno": 27
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_TMS",
+            "hw_id": "RT012160003",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.163",
+            "rs485_addr": 63,
+            "sno": 28
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_TMS",
+            "hw_id": "RT012160004",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.164",
+            "rs485_addr": 64,
+            "sno": 29
+        },
+        {
+            "activeStatus": "INACTIVE",
+            "conn_mode": "RS485",
+            "device_type": "DEV_PA",
+            "hw_id": "RT012160005",
+            "installStatus": "NOT_INSTALLED",
+            "ip_addr": "192.168.0.164",
+            "rs485_addr": 65,
+            "sno": 30
+        }
+    ],
+    "systemconfig": {
+        "bmu_ftp_ip": "148.72.213.234",
+        "bmu_ftp_path": "/BMU/",
+        "bmu_ftp_pswd": "BitRail#65381",
+        "bmu_ftp_user": "BitCoach",
+        "bmu_ser_ip": "192.168.1.30",
+        "bmu_status": "INACTIVE",
+        "coach_id": "skexpress1234",
+        "coach_no": "f3",
+        "dvi_active": "INACTIVE",
+        "eth_dns": "192.168.0.1",
+        "eth_gateway": "192.168.0.1",
+        "eth_ip_addr": "192.168.0.100",
+        "eth_ip_mode": "STATIC",
+        "eth_net_mask": "255.255.255.0",
+        "gps_port": "/dev/ttyUSB1",
+        "gps_source": "FILE",
+        "gsm_apn": "imis",
+        "gsm_imei": "351756051523999",
+        "gsm_mdisdn": "9889452434",
+        "gsm_status": "INACTIVE",
+        "hw_id": "RT0121000001",
+        "led_pis_font": "Ubuntu",
+        "led_pis_speed": 4,
+        "mem_ext_ssd1_mnt": "INACTIVE",
+        "mem_ext_ssd2_mnt": "INACTIVE",
+        "mem_int_ssd_mnt": "INACTIVE",
+        "mem_sd_mnt": "INACTIVE",
+        "mem_usb1_mnt": "INACTIVE",
+        "mem_usb2_mnt": "INACTIVE",
+        "mpu_id": "12345ABCDEF",
+        "pa_vol": "85",
+        "wifi_ap_pswd": "coach_id123",
+        "wifi_ap_ssid": "WIFI_coach_id",
+        "wifi_dns": "",
+        "wifi_gateway": "",
+        "wifi_ip_addr": "",
+        "wifi_ip_mode": "DHCP",
+        "wifi_mode": "STATION",
+        "wifi_net_mask": "",
+        "wifi_st_pswd": "123456789",
+        "wifi_st_ssid": "BMU_WIFI",
+        "ws_ftp_url": "",
+        "ws_ser_url": "",
+        "ws_status": "INACTIVE"
+    },
+    "systemusers": [
+        {
+            "access_level": "ACCESS_LEVEL_1",
+            "activeStatus": "INACTIVE",
+            "name": "sahil",
+            "password": "sk12345"
+        },
+        {
+            "access_level": "ACCESS_LEVEL_1",
+            "activeStatus": "INACTIVE",
+            "name": "kulpreet",
+            "password": "kp12345"
+        },
+        {
+            "access_level": "ACCESS_LEVEL_2",
+            "activeStatus": "INACTIVE",
+            "name": "shailendra",
+            "password": "sd12345"
+        },
+        {
+            "access_level": "ACCESS_LEVEL_2",
+            "activeStatus": "INACTIVE",
+            "name": "anwez",
+            "password": "az12345"
+        },
+        {
+            "access_level": "ACCESS_LEVEL_1",
+            "activeStatus": "INACTIVE",
+            "name": "narendar",
+            "password": "nr12345"
+        }
+    ]
+}
